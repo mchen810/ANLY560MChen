@@ -1,3 +1,1 @@
-# ANLY560MChen
-
-Introduction
+# Anly560
